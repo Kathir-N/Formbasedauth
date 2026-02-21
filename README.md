@@ -13,7 +13,7 @@ pom xml:
 1. spring-boot-starter-security
 2. spring-boot-starter-web
    ---
-Create Secuirty class
-@onfiguration
+Create Security class
+@Configuration
 cretae bean for filter chain method(invoke .http default methods)
 cretae bean for userobject with user credtz
